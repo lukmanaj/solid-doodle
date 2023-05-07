@@ -8,6 +8,9 @@ import numpy as np
 import pandas as pd
 import tempfile
 
+
+
+
 BATCH_SIZE = 500
 
 try:
