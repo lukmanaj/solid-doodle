@@ -291,7 +291,7 @@ def run_aligner():
     st.title("Cohere-Parallel-Language-Sentence-Alignment")
 
     # getting the API key
-    cohere_api_key = "lT27lL4uyB6e8KnTl9tRUDjF1TMksqDWKL8oDjHU"
+    cohere_api_key = 
 
     # Upload source and target files
     src_file = st.file_uploader("Upload source file", type=["txt"])
